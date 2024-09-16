@@ -21,10 +21,10 @@ The dataset consists of reviews of the products which customers purchased from F
 [Dataset--Click here](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products)
 
 ## Basic Python Libraries
-* Numpy: For numerical computing with large arrays and mathematical operations
-* Pandas: for data manipulation and analysis
-* Matplotlib: for creating various types of plots and visualization
-* scikit-learn: for machine learning task
+* Numpy --For numerical computing with large arrays and mathematical operations
+* Pandas--for data manipulation and analysis
+* Matplotlib--for creating various types of plots and visualization
+* scikit-learn--for machine learning task
 
 ## Module of NLP
 * NLTK(Natural Language Tool Kit): For text analysis, from this we require stopword.
@@ -38,7 +38,9 @@ The dataset consists of reviews of the products which customers purchased from F
     Lemmatization-reducing words to their root form.
 * Data analysis
 * convert text to vectors
-* Model training, evaluation and prediction
+* Model training, evaluation and prediction--Logistic Regression, Random forest.
+
+
 
 
 
